@@ -1,1 +1,1 @@
-./UserData <steamapps/common/Wonderful Everyday Down the Rabbit-Hole>/UserData
+ln -s -r ./UserData "/home/karlo/.steam/steam/steamapps/common/Wonderful Everyday Down the Rabbit-Hole/UserData"
